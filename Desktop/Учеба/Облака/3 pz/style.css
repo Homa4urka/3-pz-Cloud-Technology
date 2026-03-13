@@ -1,0 +1,30 @@
+body {
+    background-image: url("background_1.jpg");
+    justify-content: center;
+    display: flex;
+    font-family: Times New Roman;
+    font-size: 15pt;
+}
+
+.oglavlenie{
+    font-weight: bold;
+    font-size: 23pt;
+    color: #b01830;
+}
+
+.fstroka{
+    font-weight: bold;
+    font-size: 18pt;
+    color: #b01830;
+    background-color: #bfbfbf;
+    text-align: center;
+}
+
+td{
+    border: 3px inset #bfbfbf;
+    font-weight: bold;
+}
+
+table{
+    border: 6px outset #bfbfbf;
+}
